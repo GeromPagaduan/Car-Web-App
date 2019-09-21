@@ -4,15 +4,11 @@ Project to create a drop-down to list a car's information for my Web App Develop
 -------------------------------------------------------------------------------------------
 Requirments were to create:
 
-A car part has a name etc. and belongs to many cars.
-
-A car make has a name and a country.
-
-Cars have make and model names, VIN numbers, and many parts.
-
-You will need to create a CarsParts model or scaffold.
-
-In the form for a car, have a drop-down with a list of possible parts to be added.
+- A car part has a name etc. and belongs to many cars.
+- A car make has a name and a country.
+- Cars have make and model names, VIN numbers, and many parts.
+- You will need to create a CarsParts model or scaffold.
+- In the form for a car, have a drop-down with a list of possible parts to be added.
 
 -------------------------------------------------------------------------------------------
 
